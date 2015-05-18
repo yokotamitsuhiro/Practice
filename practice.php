@@ -1,1 +1,3 @@
-<?php echo "practice ver2" ?>
+<?php
+ echo "practice ver2"
+?>
